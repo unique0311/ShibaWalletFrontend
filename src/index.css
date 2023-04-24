@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Ageo-Bold';
+  src: local('Ageo-Bold'), url(./fonts/Ageo-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Ageo-ExtraBold';
+  src: local('Ageo-ExtraBold'), url(./fonts/Ageo-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Ageo-Heavy';
+  src: local('Ageo-Heavy'), url(./fonts/Ageo-Heavy.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Ageo-Light';
+  src: local('Ageo-Light'), url(./fonts/Ageo-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Ageo-Medium';
+  src: local('Ageo-Medium'), url(./fonts/Ageo-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Ageo-Regular';
+  src: local('Ageo-Regular'), url(./fonts/Ageo-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Ageo-SemiBold';
+  src: local('Ageo-SemiBold'), url(./fonts/Ageo-SemiBold.ttf) format('truetype');
+}
